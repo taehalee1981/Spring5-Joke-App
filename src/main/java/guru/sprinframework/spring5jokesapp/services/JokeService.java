@@ -1,0 +1,6 @@
+package guru.sprinframework.spring5jokesapp.services;
+
+public interface JokeService {
+
+    String getJoke();
+}
